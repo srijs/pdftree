@@ -1,0 +1,13 @@
+{
+  "name": "pdftree",
+  "version": "0.0.1",
+  "description": "Spatial tree from PDF documents.",
+  "main": "index.js",
+  "keywords": [
+    "pdf",
+    "spatial",
+    "tree"
+  ],
+  "author": "Sam Rijs",
+  "license": "GPL"
+}
