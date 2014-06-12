@@ -10,7 +10,8 @@ var PDFPage = function (page) {
    'index',
    'label',
    'links',
-   'text'
+   'text',
+   'textLayout'
   ].forEach(function (p) {
     self[p] = page[p];
   });
